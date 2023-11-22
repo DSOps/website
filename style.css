@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, ui-sans-serif;
+    /* Sets a heirachy of fonts to display*/
+    line-height: 1.3;
+    /* This is the space between two baselines*/
+}
+h1 { 
+    color: beige
+    /* This sets the color of the h1 text in index.html */
+}
