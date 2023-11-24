@@ -1,10 +1,10 @@
 body {
-    font-family: "roboto", "open-sans", Verdana, ui-sans-serif;
+    font-family: 'Roboto', sans-serif;
     /* Sets a heirachy of fonts to display*/
     line-height: 1.3;
     /* This is the space between two baselines*/
 }
 h1 { 
-    color: beige
+    color: whitesmoke
     /* This sets the color of the h1 text in index.html */
 }
