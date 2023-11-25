@@ -1,3 +1,6 @@
+html{
+    background-color: whitesmoke;
+}
 body {
     font-family: 'Roboto', sans-serif;
     /* Sets a heirachy of fonts to display*/
@@ -5,6 +8,6 @@ body {
     /* This is the space between two baselines*/
 }
 h1 { 
-    color: whitesmoke
+    color: burlywood
     /* This sets the color of the h1 text in index.html */
 }
